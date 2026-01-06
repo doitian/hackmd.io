@@ -1,5 +1,8 @@
 # Ideas on A General OOP Programming Model on CKB
 
+[![hackmd-github-sync-badge](https://hackmd.io/E0H39KkgR5id7eHvl_Qfyw/badge)](https://hackmd.io/E0H39KkgR5id7eHvl_Qfyw)
+
+
 ## dApp Programming on UTXO is Hard
 
 Separating the generator and verifier is a premature optimization. Typically, using a generator to recreate the result and check whether it matches the given result is enough in most situations. However, attempting to separate the generator and verifier can lead to unnecessarily complex design.
