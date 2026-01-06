@@ -29,7 +29,7 @@ The list does not include orphan transactions that depend on unknown cells, beca
 
 Different states require different strategies as described in the following chapters.
 
-![transaction-state-diagram](https://raw.githubusercontent.com/r763/uPic/master/202008/IERrxl/transaction-state-diagram.png)
+![transaction-state-diagram](https://blog.iany.me/uploads/202601/7c907f/transaction-state-diagram.png)
 
 ### Pending Transaction
 
